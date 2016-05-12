@@ -1,0 +1,1 @@
+[12-May-2016 15:44:05 America/Los_Angeles] PHP Fatal error:  Call to undefined function assertText() in /Users/Guest/Desktop/cameron_bakery/sites/all/modules/bakery_user/tests/bakery_user.test on line 62

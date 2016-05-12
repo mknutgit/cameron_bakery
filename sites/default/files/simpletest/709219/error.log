@@ -1,0 +1,1 @@
+[12-May-2016 15:40:36 America/Los_Angeles] PHP Fatal error:  Call to undefined function assertTest() in /Users/Guest/Desktop/cameron_bakery/sites/all/modules/bakery_user/tests/bakery_user.test on line 62
